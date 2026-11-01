@@ -58,7 +58,7 @@
 - 사용자와의 대화를 통해 의류를 추천하는 챗봇 서비스 개발
 - 웹 기반 챗봇 인터페이스 구현 및 서비스 프로토타입 제작
 - Repository: [chat_ai_wear](https://github.com/jhnxk/chat_ai_wear)
-- Live Demo: [[패션 추천 챗봇](https://chat-ai-wear.onrender.com)](https://chat-ai-wear.onrender.com)
+- Live Demo: [패션 추천 챗봇(https://chat-ai-wear.onrender.com)](https://chat-ai-wear.onrender.com)
 
 **3. 대학생 1:1 소개팅 매칭 지원 서비스 | 팀 프로젝트**
 - 교내 창업동아리
@@ -73,7 +73,7 @@
 - 응급환자의 상태와 병원별 의료 자원을 고려한 최적의 이송 병원 추천 시스템 개발
 - 실시간 병원 정보와 AI 기술을 활용한 응급의료 의사결정 지원 서비스 구현
 - Repository: [SAVER-AI](https://github.com/jhnxk/SAVER-AI)
-- Live Demo: [[IEUM.AI](https://ieum-ai.onrender.com)](https://ieum-ai.onrender.com)
+- Live Demo: [IEUM.AI(https://ieum-ai.onrender.com)](https://ieum-ai.onrender.com)
 
 ### 💡 Planned Projects
 
